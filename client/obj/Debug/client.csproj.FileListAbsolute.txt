@@ -1,0 +1,16 @@
+C:\Users\MetroX\Desktop\PushCenter\client\bin\Debug\client.exe.config
+C:\Users\MetroX\Desktop\PushCenter\client\bin\Debug\client.exe
+C:\Users\MetroX\Desktop\PushCenter\client\bin\Debug\client.pdb
+C:\Users\MetroX\Desktop\PushCenter\client\bin\Debug\NetUtils.dll
+C:\Users\MetroX\Desktop\PushCenter\client\bin\Debug\NetUtils.pdb
+C:\Users\MetroX\Desktop\PushCenter\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\MetroX\Desktop\PushCenter\client\obj\Debug\client.exe
+C:\Users\MetroX\Desktop\PushCenter\client\obj\Debug\client.pdb
+C:\Users\Administrator\Desktop\PushCenter\client\bin\Debug\client.exe.config
+C:\Users\Administrator\Desktop\PushCenter\client\bin\Debug\client.exe
+C:\Users\Administrator\Desktop\PushCenter\client\bin\Debug\client.pdb
+C:\Users\Administrator\Desktop\PushCenter\client\bin\Debug\NetUtils.dll
+C:\Users\Administrator\Desktop\PushCenter\client\bin\Debug\NetUtils.pdb
+C:\Users\Administrator\Desktop\PushCenter\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\PushCenter\client\obj\Debug\client.exe
+C:\Users\Administrator\Desktop\PushCenter\client\obj\Debug\client.pdb

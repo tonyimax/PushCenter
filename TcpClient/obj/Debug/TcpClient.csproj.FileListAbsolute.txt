@@ -1,0 +1,16 @@
+C:\Users\MetroX\Desktop\PushCenter\TcpClient\bin\Debug\TcpClient.exe.config
+C:\Users\MetroX\Desktop\PushCenter\TcpClient\bin\Debug\TcpClient.exe
+C:\Users\MetroX\Desktop\PushCenter\TcpClient\bin\Debug\TcpClient.pdb
+C:\Users\MetroX\Desktop\PushCenter\TcpClient\bin\Debug\NetUtils.dll
+C:\Users\MetroX\Desktop\PushCenter\TcpClient\bin\Debug\NetUtils.pdb
+C:\Users\MetroX\Desktop\PushCenter\TcpClient\obj\Debug\TcpClient.csprojResolveAssemblyReference.cache
+C:\Users\MetroX\Desktop\PushCenter\TcpClient\obj\Debug\TcpClient.exe
+C:\Users\MetroX\Desktop\PushCenter\TcpClient\obj\Debug\TcpClient.pdb
+C:\Users\Administrator\Desktop\PushCenter\TcpClient\bin\Debug\TcpClient.exe.config
+C:\Users\Administrator\Desktop\PushCenter\TcpClient\bin\Debug\TcpClient.exe
+C:\Users\Administrator\Desktop\PushCenter\TcpClient\bin\Debug\TcpClient.pdb
+C:\Users\Administrator\Desktop\PushCenter\TcpClient\bin\Debug\NetUtils.dll
+C:\Users\Administrator\Desktop\PushCenter\TcpClient\bin\Debug\NetUtils.pdb
+C:\Users\Administrator\Desktop\PushCenter\TcpClient\obj\Debug\TcpClient.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\PushCenter\TcpClient\obj\Debug\TcpClient.exe
+C:\Users\Administrator\Desktop\PushCenter\TcpClient\obj\Debug\TcpClient.pdb

@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\PushCenter\C10000\bin\Debug\C10000.exe.config
+C:\Users\Administrator\Desktop\PushCenter\C10000\bin\Debug\C10000.exe
+C:\Users\Administrator\Desktop\PushCenter\C10000\bin\Debug\C10000.pdb
+C:\Users\Administrator\Desktop\PushCenter\C10000\obj\Debug\C10000.exe
+C:\Users\Administrator\Desktop\PushCenter\C10000\obj\Debug\C10000.pdb
+C:\Users\MetroX\Desktop\PushCenter\C10000\bin\Debug\C10000.exe.config
+C:\Users\MetroX\Desktop\PushCenter\C10000\bin\Debug\C10000.exe
+C:\Users\MetroX\Desktop\PushCenter\C10000\bin\Debug\C10000.pdb
+C:\Users\MetroX\Desktop\PushCenter\C10000\obj\Debug\C10000.csprojResolveAssemblyReference.cache
+C:\Users\MetroX\Desktop\PushCenter\C10000\obj\Debug\C10000.exe
+C:\Users\MetroX\Desktop\PushCenter\C10000\obj\Debug\C10000.pdb

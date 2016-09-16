@@ -1,0 +1,11 @@
+C:\Users\MetroX\Desktop\PushCenter\TcpServer\bin\Debug\TcpServer.exe.config
+C:\Users\MetroX\Desktop\PushCenter\TcpServer\bin\Debug\TcpServer.exe
+C:\Users\MetroX\Desktop\PushCenter\TcpServer\bin\Debug\TcpServer.pdb
+C:\Users\MetroX\Desktop\PushCenter\TcpServer\obj\Debug\TcpServer.exe
+C:\Users\MetroX\Desktop\PushCenter\TcpServer\obj\Debug\TcpServer.pdb
+C:\Users\Administrator\Desktop\PushCenter\TcpServer\bin\Debug\TcpServer.exe.config
+C:\Users\Administrator\Desktop\PushCenter\TcpServer\bin\Debug\TcpServer.exe
+C:\Users\Administrator\Desktop\PushCenter\TcpServer\bin\Debug\TcpServer.pdb
+C:\Users\Administrator\Desktop\PushCenter\TcpServer\obj\Debug\TcpServer.exe
+C:\Users\Administrator\Desktop\PushCenter\TcpServer\obj\Debug\TcpServer.pdb
+C:\Users\MetroX\Desktop\PushCenter\TcpServer\obj\Debug\TcpServer.csprojResolveAssemblyReference.cache
